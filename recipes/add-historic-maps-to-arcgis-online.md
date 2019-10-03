@@ -2,13 +2,13 @@
 description: Add historic or other georectified maps to ArcGIS online as an image layer.
 ---
 
-# EXAMPLE: Add Historic Maps to ArcGIS Online
+# Add Historic Maps to ArcGIS Online
 
 ## Introduction
 
 We are going to add a tiled image layer to an ArcGIS online map. One common reason for doing so would be to add a historic map overlay to your project, or as a first step before digitizing details on a physical map to create new point, line or area features.
 
-![An 1886 historic map of Minneapolis, overlaid on the modern data](.gitbook/assets/image%20%281%29.png)
+![An 1886 historic map of Minneapolis, overlaid on the modern data](../.gitbook/assets/image.png)
 
 ## Ingredients
 
@@ -60,7 +60,7 @@ We are going to add this map as [web tiles](https://en.wikipedia.org/wiki/Tiled_
 This is the crucial step  — **change** {z}/{x}/{y} in the Tile URL to {level}/{col}/{row} as stated in the ArcGIS help text and illustrated below.
 {% endhint %}
 
-![](.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 5b - OPTIONAL - Set the Extent to match the content you are mapping, e.g. in this case Minneapolis, MN.
 
