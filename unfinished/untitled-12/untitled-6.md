@@ -10,8 +10,6 @@ The information on Dreamscape comes with warnings not to trust the data. Serious
 
 ## **Ingredients**
 
-‌
-
 1. A digital text or corpus of texts \[see digital texts page\] in a language that Voyant supports
 2. ‌Time! \[the tool is slow\]. There does not appear to be a % complete or other counter to tell you how much longer it will take to complete.
 3. Note that you can return to your work if you use the [bookmark](https://voyant-tools.org/docs/#!/guide/start) feature to create a URL; be aware that Voyant says that your work “generally speaking” remains accessible if you access it once a month.
@@ -33,11 +31,7 @@ Example Map
 
 ![](../../.gitbook/assets/0%20%286%29.png)
 
-‌
-
 ## **How it works**
-
-‌
 
 A detailed explanation of what happened in the previous section, so we are not perpetuating technology "black boxes" but helping people understand how to take control.
 
@@ -45,11 +39,7 @@ This section can include code snippets of CSS, JavaScript, Python, etc.
 
 as appropriate
 
-‌
-
 ## **Further Resources**
-
-‌
 
 This section can be used to give additional information to make the reader more knowledgeable about specific aspects of the recipe, or provide helpful links to other useful information.
 

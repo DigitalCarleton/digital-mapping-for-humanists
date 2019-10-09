@@ -4,11 +4,7 @@ description: 'Rebecca Ciota, Grinnell College; Ellen Joyce, Beloit College'
 
 # Neatline for Humanistic Mapping
 
-## **Using Neatline for Omeka Classic**
-
-## **Introduction**
-
-‌
+## **Introduction**‌
 
 According to the [Neatline](https://neatline.org/) website:
 
@@ -72,9 +68,7 @@ If you have a Google API, you can use the Google map layers. Otherwise, OpenStre
 
 **3. Working with your exhibit**
 
-Your exhibit will now appear in a list \(when you have more than one\) when you click on the Neatline tab in the left sidebar. Click on the title of the exhibit to edit the map exhibit itself \(you may also return to exhibit settings, etc. as necessary\).
-
-‌
+Your exhibit will now appear in a list \(when you have more than one\) when you click on the Neatline tab in the left sidebar. Click on the title of the exhibit to edit the map exhibit itself \(you may also return to exhibit settings, etc. as necessary\)
 
 When you open the map, you will find it centered on the ocean south of West Africa. Navigate to where you would like to work on the map and zoom in to the extent you need for your project.
 
@@ -104,8 +98,6 @@ A detailed explanation of what happened in the previous section, so we are not p
 This section can include code snippets of CSS, JavaScript, Python, etc.
 
 as appropriate
-
-‌
 
 ## **Further Resources**
 

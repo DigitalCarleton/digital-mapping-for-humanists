@@ -1,3 +1,7 @@
+---
+description: Nick Philips
+---
+
 # Upload a dataset to Carto
 
 ## **Introduction**
@@ -10,11 +14,15 @@ You will need a dataset \(ideally, a CSV file\). However, Carto supports .xls \(
 
 You will need a free account/login for Carto. You can login with your Gmail account.
 
-Warning: Carto is a “freemium” mapping program. The standard free account is only a 14 day trial. You can extend your free account by emailing Carto and requesting an educator account.
+{% hint style="warning" %}
+**WARNING:** Carto is a “freemium” mapping program. The standard free account is only a 14 day trial. You can extend your free account by emailing Carto and requesting an educator account.
+{% endhint %}
 
 ## **How to do it**
 
-‌WARNING: The steps below may be or appear different for users on the free trial.
+{% hint style="warning" %}
+**WARNING:** The steps below may be or appear different for users on the free trial.
+{% endhint %}
 
 1. Log in to Carto on the top right that reads “Try for free”
 2. Navigate to the data tab at the top left.

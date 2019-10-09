@@ -1,14 +1,14 @@
+---
+description: Hsiang-Lin Shih
+---
+
 # Extract data from Google My Maps \(.kml\) into a .csv spreadsheet
 
 ## **Introduction**
 
-‌
-
 This recipe focuses on extracting data from Google My Maps for other uses. Google My Maps is a platform where places can be pinned down visually on a Google map. However, if you want to play with the geo-data further in a non-visual way \(e.g. adding time data\), you can extract data from Google My Maps \(.kml\) and turn the data into a csv. spreadsheet.
 
 ## **Ingredients**
-
-‌
 
 A map in [Google My Maps](https://wp.stolaf.edu/it/googlemymaps/).
 

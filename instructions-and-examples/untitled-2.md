@@ -6,9 +6,9 @@
 
 ## **Ingredients**
 
-‌An open mind.
-
-‌
+{% hint style="success" %}
+An open mind.
+{% endhint %}
 
 **How to do it & How it works**
 
@@ -26,9 +26,9 @@
 
 ## 
 
-‌
 
-‌**Section 1: Brainstorming**
+
+### ‌**Section 1: Brainstorming**
 
 What do you want to think about more?
 
@@ -60,7 +60,7 @@ How should you collect and organize data? Is this compatible with multiple platf
 
 _Notes and Reflection_
 
-**Section 2: A Resource Audit \(AKA - What if I get stuck\)**
+### **Section 2: A Resource Audit \(AKA - What if I get stuck\)**
 
 What are your resources?
 
@@ -82,7 +82,7 @@ What are the gaps in the current scholarship?
 
 _Notes and Reflection_
 
-**Section 3: Critical Questions**
+### **Section 3: Critical Questions**
 
 What values are driving your interests and research questions?
 
@@ -106,7 +106,7 @@ Is the map information accessible? What are the limitations of visual representa
 
 _Notes and Reflection_
 
-**Section 4: Connection to Teaching and Student Involvement**
+### **Section 4: Connection to Teaching and Student Involvement**
 
 Which of your current or upcoming classes could you use to incorporate new tools or the research project or both?
 
@@ -120,7 +120,7 @@ Are there \(summer\) research opportunities for students?
 
 _Notes and Reflection_
 
-**Section 5: Considerations for Public Engagement and Presentation**
+### **Section 5: Considerations for Public Engagement and Presentation**
 
 How is the data being made available to the public at an affordable cost?
 
@@ -136,11 +136,11 @@ How does your map look displayed on a smart phone? Are the maps best viewed on l
 
 _Notes and Reflection_
 
-**Section 6: You decided to map… now what?**
+### **Section 6: You decided to map… now what?**
 
 Once you have decided to actually design a map, it might be helpful to consider the following questions:
 
-**What is the end game of my collected data?**
+#### **What is the end game of my collected data?**
 
 * For publication / presentations / talks
   * consider presses like Lever press
@@ -156,7 +156,7 @@ Once you have decided to actually design a map, it might be helpful to consider 
   * Pace the progress and establish your teaching goals
   * Design a rubric
 
-**How many locations I am going to pin?**
+#### **How many locations I am going to pin?**
 
 * If you have a lot of points:
   * Consider elaborating a dataset through google sheets / airtable. Then, export it as a .csv file. If you start manually placing markers and then you have a lot, it might be more difficult for you to reorganize that data or excerpt from it later.
@@ -165,12 +165,14 @@ Once you have decided to actually design a map, it might be helpful to consider 
   * Maybe My Maps is a tool that might be helpful for you.
   * Maybe projection of a map in a white board is an option to be considered.
 
-**What do I want to do with the points? Movement? A story? Documentation? Annotation?**
+#### **What do I want to do with the points? Movement? A story? Documentation? Annotation?**
 
 * If you are recreating a path in which movement is crucial, you might consider tools such as:
   * Carto, QGIS, ArcGIS storymaps
 
+{% hint style="info" %}
 _TRICK:_ If you want to collect data, you can install in your phone a gps tracker \(like the ones that count steps\) and allow it to register space.
+{% endhint %}
 
 * If you are documenting / annotating historic places, then you might wonder…
   * To georectify or not to georectify… that is the question :\)
@@ -186,17 +188,13 @@ _TRICK:_ If you want to collect data, you can install in your phone a gps tracke
 
 * Be aware that some programs won’t support more than 10 layers. Ex. Google Maps. Some programs only support a single layer, like StoryMapJS
 
-## 
-
 ## **Further Resources**
 
-‌
-
-Advice and Questions for Guiding Research:
+### Advice and Questions for Guiding Research:
 
 Knowles, Anne Kelly \(2008\). _Placing History: How Maps, Spatial Data and GIS are Changing Historical Scholarship_. Digital supplement edited by Ami Hellier. ESRI Press, Redlands CA.
 
-Maps and Accessibility:
+### Maps and Accessibility:
 
 Carnegie Museums of Pittsburgh [http://web-accessibility.carnegiemuseums.org/content/maps/](http://web-accessibility.carnegiemuseums.org/content/maps/)
 

@@ -1,8 +1,10 @@
+---
+description: 'Carmen Moreno-Díaz, Louis K Epstein'
+---
+
 # SALAD OF TIPS
 
 ##  **Salad of Tips \(with encouragement dressing\)**
-
-‌
 
 This recipe combines some tips mixing experience and wisdom based in failed attempts \(based in our conversations\).
 
@@ -12,7 +14,7 @@ Be aware of its heterogeneity
 
 ‌- Assess your project before starting doing anything on a map. Ask yourself questions like:
 
-**What is the end game of my collected data?**
+### **What is the end game of my collected data?**
 
 * For publication / presentations / talks
   * consider presses like Lever press
@@ -28,7 +30,7 @@ Be aware of its heterogeneity
   * Pace the progress and establish your teaching goals
   * Design a rubric
 
-**How many locations I am going to pin?**
+### **How many locations I am going to pin?**
 
 * If you have a lot of points:
   * Consider elaborating a dataset through google sheets / airtable. Then, export it as a .csv file. If you start manually placing markers and then you have a lot, it might be more difficult for you to reorganize that data or excerpt from it later.
@@ -37,28 +39,35 @@ Be aware of its heterogeneity
   * Maybe My Maps is a tool that might be helpful for you.
   * Maybe projection of a map in a white board is an option to be considered.
 
-**What do I want to do with the points? Movement? A story? Documentation? Annotation?**
+### **What do I want to do with the points? Movement? A story? Documentation? Annotation?**
 
 * If you are recreating a path in which movement is crucial, you might consider tools such as:
-  * Carto, QGIS, ArcGIS storymaps
+  * [Carto](https://carto.com/), [QGIS](https://qgis.org/en/site/), [ArcGIS storymaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview) 
 
+{% hint style="info" %}
+Potentially integrating other recipes here
+{% endhint %}
+
+{% hint style="info" %}
 _TRICK:_ If you want to collect data, you can install in your phone a gps tracker \(like the ones that count steps\) and allow it to register space.
+{% endhint %}
 
-* If you are documenting / annotating historic places, then you might wonder…
-  * To georectify or not to georectify… that is the question :\)
-  * Where to find historical maps - \(David Rumsey Map Collection for example\)
+If you are documenting / annotating historic places, then you might wonder…
 
-**Which features would help me support my espacial point / argument in the map?**
+* * To georectify or not to georectify… that is the question :\)
+  * Where to find historical maps - \([David Rumsey Map](https://www.davidrumsey.com/) Collection for example\)
+
+### **Which features would help me support my espacial point / argument in the map?**
 
 * 3D
 * Consistent legend
 * Colour coding
 
-**How many layers am I considering in my project?**
+### **How many layers am I considering in my project?**
 
 * Be aware that some programs won’t support more than 10 layers. Ex. Google Maps. Some programs only support a single layer, like StoryMapJS
 
-**How picky are you about aesthetic?**
+### **How picky are you about aesthetic?**
 
-* “Out of the box” or “plug and play” platforms like Google Maps, ArcGIS Online, and Carto essentially force you to use their preferred styles, base maps, and other features. QGIS allows more customization but is less intuitive to use. Most of the most beautiful maps you encounter within other DH projects are the result of custom developper work rather than the use of existing mapping platforms. If your goal includes high degrees of beauty and functionality, you might choose to work with a designer or developper.
+* “Out of the box” or “plug and play” platforms like Google Maps, ArcGIS Online, and Carto essentially force you to use their preferred styles, base maps, and other features. QGIS allows more customization but is less intuitive to use. Most of the most beautiful maps you encounter within other DH projects are the result of custom developper work rather than the use of existing mapping platforms. If your goal includes high degrees of beauty and functionality, you might choose to work with a designer or developer.
 

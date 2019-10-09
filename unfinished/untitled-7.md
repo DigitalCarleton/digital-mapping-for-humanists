@@ -20,8 +20,6 @@ Preparatory work to understand what types of places are in the text \(precise pl
 
 Step by step instructions required to follow the recipe
 
-‌
-
 ## **How it works**
 
 A detailed explanation of what happened in the previous section, so we are not perpetuating technology "black boxes" but helping people understand how to take control.

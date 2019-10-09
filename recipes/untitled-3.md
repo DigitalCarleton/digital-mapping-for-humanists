@@ -1,10 +1,14 @@
+---
+description: Peter Nekola
+---
+
 # CSV File Subrecipe: Finding Latitude and Longitude for a Location; Working with locational data
 
-Why?
+## Why should we do this?
 
 This is necessary to plot locations in GIS, and to georectify historic maps
 
-How to do it:
+## How to do it:
 
 A\) Bing Maps Route A:
 
