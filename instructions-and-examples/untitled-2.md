@@ -1,32 +1,24 @@
+---
+description: >-
+  Written by Armstroc, Anonymous Users, and Louis K Epstein. Edited by Alan
+  Zheng. Reviewd by Aaron Young and Austin Mason.
+---
+
 # Digital Mapping Questionaire
 
 ## **Introduction**
 
-‌I’m getting started or I’m stuck and want to reassess.
+**How to do it & How it works**
+
+The digital mapping questionnaire is a set of questions that helps you understand your project. The questionnaire is divided into 6 sections, each section containing different questions.
+
+‌Review the questions below, record your answers, and keep them for future reference. If you want to, also discuss your results with a friend or colleague.
 
 ## **Ingredients**
 
 {% hint style="success" %}
-An open mind.
+**The Most Important Ingredient**: An open mind.
 {% endhint %}
-
-**How to do it & How it works**
-
-‌Review the questions below, record your answers, and keep for future reference. Discuss with a friend or colleague.
-
-**Section 1: Brainstorming**
-
-**Section 2: A Resource Audit \(AKA - What if I get stuck\)**
-
-**Section 3: Critical Questions**
-
-**Section 4: Connection to Teaching and Student Involvement**
-
-**Section 5: Considerations for Public Engagement and Presentation**
-
-## 
-
-
 
 ### ‌**Section 1: Brainstorming**
 
@@ -64,7 +56,9 @@ _Notes and Reflection_
 
 What are your resources?
 
-Software, hardware, funding, expertise, existing scholarship, cookbooks, institutional support, institutional software support, libraries, software customer service, Digital Humanities groups.
+{% hint style="success" %}
+**Sample Resources**: Software, hardware, funding, expertise, existing scholarship, cookbooks, institutional support, institutional software support, libraries, software customer service, Digital Humanities groups.
+{% endhint %}
 
 What are your software options?
 
@@ -132,7 +126,7 @@ In what ways can you advocate for your scholarship in the tenure and promotion p
 
 Do journals and publication venues have guidelines and restrictions on file types and sizes for publications?
 
-How does your map look displayed on a smart phone? Are the maps best viewed on laptops and desktops?
+How does your map look displayed on a smartphone? Are the maps best viewed on laptops and desktops?
 
 _Notes and Reflection_
 
@@ -171,7 +165,7 @@ Once you have decided to actually design a map, it might be helpful to consider 
   * Carto, QGIS, ArcGIS storymaps
 
 {% hint style="info" %}
-_TRICK:_ If you want to collect data, you can install in your phone a gps tracker \(like the ones that count steps\) and allow it to register space.
+**TRICK**_:_ If you want to collect data, you can install in your phone a gps tracker \(like the ones that count steps\) and allow it to register space.
 {% endhint %}
 
 * If you are documenting / annotating historic places, then you might wonder…
