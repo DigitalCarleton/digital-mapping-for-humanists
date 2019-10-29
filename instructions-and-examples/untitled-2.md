@@ -1,7 +1,7 @@
 ---
 description: >-
-  Written by Armstroc, Anonymous Users, and Louis K Epstein. Edited by Alan
-  Zheng. Reviewd by Aaron Young and Austin Mason.
+  Written by armstroc@lawrence (Carolyn Armstrong?), Anonymous Users, and Louis
+  K Epstein. Edited by Alan Zheng. Reviewed by Austin Mason and Aaron Young
 ---
 
 # Digital Mapping Questionaire

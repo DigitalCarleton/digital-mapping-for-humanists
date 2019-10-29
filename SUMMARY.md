@@ -2,6 +2,7 @@
 
 * [Fostering Humanistic Tools for Digital Mapping Cookbook](README.md)
 * [Recipe Template](recipe-template.md)
+* [About Us](participants-about-us.md)
 
 ## Instructions & Examples
 

@@ -1,5 +1,7 @@
 ---
-description: Add historic or other georectified maps to ArcGIS online as an image layer.
+description: >-
+  Add historic or other georectified maps to ArcGIS online as an image layer.
+  Written and Edited by Austin Mason, Reviewed by Aaron Young
 ---
 
 # Add Historic Maps to ArcGIS Online
