@@ -1,5 +1,7 @@
 ---
-description: Peter Nekola
+description: >-
+  Written by Peter Nekola. Edited by Alan Zheng. Reviewed by Austin Mason and
+  Aaron Young.
 ---
 
 # CSV File Subrecipe: Finding Latitude and Longitude for a Location; Working with locational data

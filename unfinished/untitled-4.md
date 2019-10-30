@@ -1,3 +1,9 @@
+---
+description: >-
+  Written by Victoria Morse. Edited by Alan Zheng. Reviewed by Austin Mason and
+  Aaron Young
+---
+
 # Labeling Maps: Hierarchies of Terms
 
 ## **Introduction**

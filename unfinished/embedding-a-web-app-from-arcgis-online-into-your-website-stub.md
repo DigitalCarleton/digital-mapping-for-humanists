@@ -1,3 +1,9 @@
+---
+description: >-
+  Written by Louis K Epstein. Edited by Alan Zheng. Reviewed by Austin Mason and
+  Aaron Young
+---
+
 # Embedding a Web App from ArcGis Online into your Website - STUB
 
 ## **Introduction**

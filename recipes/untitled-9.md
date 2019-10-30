@@ -1,5 +1,7 @@
 ---
-description: 'Rebecca Ciota, Grinnell College; Ellen Joyce, Beloit College'
+description: >-
+  Written by Rebecca Ciota and Ellen Joyce. Edited by Alan Zheng. Reviewed by
+  Austin Mason and Aaron Young.
 ---
 
 # Neatline for Humanistic Mapping
@@ -12,7 +14,13 @@ According to the [Neatline](https://neatline.org/) website:
 
 Neatline has a rather steep learning curve, so it is probably most useful for those who are already using Omeka to create online exhibits and want to integrate maps into those 0pprojects. It involves manually drawing points, lines, and areas on a base layer, rather than importing spreadsheet data; those become “records,” which can be linked to Omeka items \(which can have rich metadata\).
 
-**Ingredients**
+{% hint style="danger" %}
+**This Recipe is an Advanced Level Recipe.** 
+
+**Proceed with caution**
+{% endhint %}
+
+## **Ingredients**
 
 **Omeka Classic** – [Omeka](https://omeka.org/) is an open-source web-publishing software, specifically designed for library, museum, archives, and other scholarly collections. [Omeka Classic](https://omeka.org/classic/) is the original version of Omeka. The development community has moved to Omeka S, but Omeka Classic is still valuable for individual projects.
 
@@ -32,7 +40,7 @@ Neatline has a rather steep learning curve, so it is probably most useful for th
 
 1. **Install Plugins for Neatline mapping within Omeka**
 
-We recommend using **Escher**, an Omeka plugin, to help you install Neatline and its related plugins; otherwise you will need to install them in the plugin section of your server’s file manager.
+We recommend using [**Escher**](https://github.com/Daniel-KM/Omeka-plugin-Escher), an Omeka plugin, to help you install Neatline and its related plugins; otherwise you will need to install them in the plugin section of your server’s file manager.
 
 * Neatline
 * Neatline Widget SIMILE Timeline

@@ -39,6 +39,13 @@ Some potential sources of rectified map images are:
 * [David Rumsey Map Collection](https://www.davidrumsey.com/view/georeferenced-maps)
 {% endhint %}
 
+### What if I don't have an already Georectified map?
+
+If there's not an already georectified map online, you need to follow the following steps.
+
+1. Find a map! While the websites listed above are excellent places to look for rectified and non-rectified maps, \([MapWarper.net](https://mapwarper.net/), [New York Public Library MapWarper](http://maps.nypl.org/warper/), [David Rumsey Map Collection](https://www.davidrumsey.com/view/georeferenced-maps)\) you can also find map images through archives or other databases.
+2. Mapwarper accept most image formats. When you upload maps onto mapwarper, they will usually convert the map into a png file on its server. Hence when you copy the URL over to ArcGIS, they will have the ".png" extension in the url.
+
 ## How to do it
 
 We are going to add this map as [web tiles](https://en.wikipedia.org/wiki/Tiled_web_map) so it will be served at higher resolution as we zoom in, the same way satellite map layers get displayed on Google and other maps services.
@@ -49,6 +56,8 @@ We are going to add this map as [web tiles](https://en.wikipedia.org/wiki/Tiled_
 2 - Get the **URL in Tiles or XYZ format**, which should follow the format below   
    [https://mapwarper.net/maps/tile/38325/{z}/{x}/{y}.png](https://mapwarper.net/maps/tile/38325/{z}/{x}/{y}.png
 )
+
+> The
 
 3 - In **ArcGIS Online**, open a new or existing **Map**
 
@@ -68,9 +77,15 @@ This is the crucial step  — **change** {z}/{x}/{y} in the Tile URL to {level}/
 
 6 - Click **Add Layer** and see your map overlaid.  
 
+{% hint style="info" %}
+The "**Title**" you type in will be the name of the tile layer in ArcGIS. 
+
+The "**Credits**" you type in can help you keep track who created which tile layers.
+{% endhint %}
+
 ## How it works
 
-The biggest challenge with displaying an image on a zoomable map is resolution. Digital images are raster data with a fixed number of discrete cells or pixels giving the image its resolution. High resolution images are large files, which can take a long time to load over the internt.
+The biggest challenge with displaying an image on a zoomable map is resolution. Digital images are raster data with a fixed number of discrete cells or pixels giving the image its resolution. High resolution images are large files, which can take a long time to load over the internet.
 
 {% hint style="info" %}
 Read about the [difference between raster and vector data types for spatial data here](https://gisgeography.com/spatial-data-types-vector-raster/).

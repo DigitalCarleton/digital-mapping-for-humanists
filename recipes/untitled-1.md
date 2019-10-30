@@ -1,5 +1,7 @@
 ---
-description: Hsiang-Lin Shih
+description: >-
+  Written by Hsiang-Lin Shih. Edited by Alan Zheng. Reviewed by Austin Mason and
+  Aaron Young.
 ---
 
 # Extract data from Google My Maps \(.kml\) into a .csv spreadsheet
@@ -25,6 +27,10 @@ A map in [Google My Maps](https://wp.stolaf.edu/it/googlemymaps/).
 2. Use QGIS to convert the .kml file into a .csv spreadsheet:
 
 ![&#x201C;Vector&#x201D; in the top menu in QGIS](../.gitbook/assets/3.png)
+
+{% hint style="info" %}
+If you do not have QGIS or have questions about converting .kml into a .csv spreadsheet, this [website](http://www.convertcsv.com/kml-to-csv.htm) can also potentially help you convert .kml files into .csv files.
+{% endhint %}
 
 * **Check again if there is latitude-longitude data:** Right-click the \(merged, geotery attribute added\) layer in QGIS &gt; Select “Open Attribute Table.” This time you should find “xcoord” \(which means longitude\) and “ycoord” \(which means latitude\).
 * **Download the data:** Right-click the \(merged, with “xcoord” and “ycoord”\) layer you want to download &gt; Select “Export” &gt; Click “Save Features as” &gt; Look for the drop-down menu “Format” &gt; Select “Comma Separated Value \[CSV\]” &gt; Click the horizontally-arranged three-dot sign to name the file &gt; Click OK.

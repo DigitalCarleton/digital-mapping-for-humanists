@@ -165,7 +165,7 @@ Once you have decided to actually design a map, it might be helpful to consider 
   * Carto, QGIS, ArcGIS storymaps
 
 {% hint style="info" %}
-**TRICK**_:_ If you want to collect data, you can install in your phone a gps tracker \(like the ones that count steps\) and allow it to register space.
+**TRICK:** If you want to collect data, you can install in your phone a gps tracker \(like the ones that count steps\) and allow it to register space.
 {% endhint %}
 
 * If you are documenting / annotating historic places, then you might wonder…

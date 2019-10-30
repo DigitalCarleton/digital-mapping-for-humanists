@@ -1,3 +1,9 @@
+---
+description: >-
+  Written by Victoria Morse. Edited by Alan Zheng. Reviewed by Austin Mason and
+  Aaron Young
+---
+
 # Mapping a Text Using Voyant
 
 ## **Introduction**

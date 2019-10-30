@@ -1,3 +1,9 @@
+---
+description: >-
+  Written by Louis K Epstein and anonymous users. Edited by Alan Zheng. Reviewed
+  by Austin Mason and Aaron Young.
+---
+
 # Uncertainty and Ambiguity in Data
 
 ## **Introduction**

@@ -1,3 +1,9 @@
+---
+description: >-
+  Written by Mark Thorne. Edited by Alan Zheng. Reviewed by Austin Mason and
+  Aaron Young.
+---
+
 # Map locations from a text using Recogito
 
 ## **Introduction**
@@ -28,6 +34,14 @@ Head to [https://recogito.pelagios.org/](https://recogito.pelagios.org/) and:
 2 - Click “New” at the upper left under your account name to upload a text
 
 3 - Double-click on your text to open it for annotations
+
+{% hint style="success" %}
+**Where can I find the texts?**
+
+[Project Gutenberg](https://www.gutenberg.org/) is a very useful resource if you are considering mapping places from historical literature. You can also contact your institution's librarians and archive researchers to help you obtain source materials to analyze.
+
+It is also very possible that you already have found your texts and are just looking for a way to map it. 
+{% endhint %}
 
 4 - The text opens to Document View. Find a word that references a geographical location and double-click on it.
 

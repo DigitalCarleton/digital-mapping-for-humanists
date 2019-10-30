@@ -1,14 +1,14 @@
 ---
-description: 'Carmen Moreno-Díaz, Louis K Epstein'
+description: >-
+  Written by Carmen Moreno-Díaz and Louis K Epstein. Edited by Alan Zheng.
+  Reviewed by Austin Mason and Aaron Young.
 ---
 
-# SALAD OF TIPS
+# Salad Of Tips
 
 ##  **Salad of Tips \(with encouragement dressing\)**
 
-This recipe combines some tips mixing experience and wisdom based in failed attempts \(based in our conversations\).
-
-Be aware of its heterogeneity
+This recipe combines some tips mixing experience and wisdom based on failed attempts and past conversations.
 
 ## **Questioning ingredients**
 
@@ -49,7 +49,7 @@ Potentially integrating other recipes here
 {% endhint %}
 
 {% hint style="info" %}
-_TRICK:_ If you want to collect data, you can install in your phone a gps tracker \(like the ones that count steps\) and allow it to register space.
+**TRICK:** If you want to collect data, you can install in your phone a gps tracker \(like the ones that count steps\) and allow it to register space.
 {% endhint %}
 
 If you are documenting / annotating historic places, then you might wonder…

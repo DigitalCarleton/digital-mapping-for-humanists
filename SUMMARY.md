@@ -7,7 +7,8 @@
 ## Instructions & Examples
 
 * [Digital Mapping Questionaire](instructions-and-examples/untitled-2.md)
-* [SALAD OF TIPS](instructions-and-examples/untitled-10.md)
+* [Salad Of Tips](instructions-and-examples/untitled-10.md)
+* [Uncertainty and Ambiguity in Data](instructions-and-examples/untitled-11.md)
 
 ## Recipes
 
@@ -17,7 +18,6 @@
 * [Map locations from a text using Recogito](recipes/untitled-5.md)
 * [Neatline for Humanistic Mapping](recipes/untitled-9.md)
 * [Extract data from Google My Maps \(.kml\) into a .csv spreadsheet](recipes/untitled-1.md)
-* [Uncertainty and Ambiguity in Data](recipes/untitled-11.md)
 * [CSV File Subrecipe: Finding Latitude and Longitude for a Location; Working with locational data](recipes/untitled-3.md)
 
 ## Unfinished Recipes — Work in Progress <a id="unfinished"></a>

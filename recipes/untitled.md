@@ -1,5 +1,7 @@
 ---
-description: Nick Philips
+description: >-
+  Written by Nick Philips. Edited by Alan Zheng. Reviewed by Austin Mason and
+  Aaron Young.
 ---
 
 # Upload a dataset to Carto
@@ -30,6 +32,10 @@ You will need a free account/login for Carto. You can login with your Gmail acco
 4. Upload your dataset as a file from your computer, or you can link your Carto account to your Google Drive account \(or Dropbox, etc.\).
 5. Carto will automatically identify the columns with coordinates in your dataset. If there are none, it will prompt you to identify the location data in your dataset. You can use location names \(place names, street addresses, etc.\) instead of coordinates.
 6. Your dataset will display in spreadsheet form. Click the “map view” at the top to visualize the data.‌
+
+![This is how Step 2 would look like for a free trial Carto account](../.gitbook/assets/carto-step1.png)
+
+![Step 3 for a free trial Carto account](../.gitbook/assets/carto-step-2.png)
 
 ## **How it works**
 

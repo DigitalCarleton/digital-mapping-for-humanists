@@ -1,3 +1,9 @@
+---
+description: >-
+  Written by Andrew McSorley. Edited by Alan Zheng. Reviewed by Austin Mason and
+  Aaron Young
+---
+
 # Voyant Tools
 
 ## **Introduction**
