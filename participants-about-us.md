@@ -10,7 +10,7 @@ description: Here are the people involved in this project.
 
 Assistant Professor and Discovery and Integrated Systems Librarian at Grinnell College.
 
-### \*\*\*\*[**Louis K Epstein:**](https://www.stolaf.edu/profile/epstein)
+### \*\*\*\*[**Louis K Epstein**](https://www.stolaf.edu/profile/epstein)
 
 Assistant Professor of Music at St. Olaf College.
 
@@ -22,7 +22,7 @@ Associate Professor and Chair of History at Beloit College.
 
 
 
-### [**Austin Mason**](https://apps.carleton.edu/profiles/amason/)**:**
+### [**Austin Mason**](https://apps.carleton.edu/profiles/amason/)
 
 Assistant Director of the Humanities Center; Lecturer in History; Director of Digital Arts and Humanities at Carleton College.
 
@@ -46,7 +46,7 @@ Visiting Assistant Professor of Philosophy at Luther College.
 
 
 
-### [Hsiang-Lin Shih:](https://www.stolaf.edu/profile/shih)
+### [Hsiang-Lin Shih](https://www.stolaf.edu/profile/shih)
 
 Assistant Professor of Asian Studies at St. Olaf College.
 
