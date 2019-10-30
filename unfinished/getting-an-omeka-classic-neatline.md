@@ -1,3 +1,7 @@
+---
+description: We do not know the author! Austin gave comments though.
+---
+
 # Getting an Omeka Classic Neatline
 
 ## **The Intense Way**

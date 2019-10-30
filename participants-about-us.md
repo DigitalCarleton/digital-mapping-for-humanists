@@ -1,5 +1,5 @@
 ---
-description: Here are the
+description: Here are the people involved in this project.
 ---
 
 # About Us
@@ -12,49 +12,51 @@ Assistant Professor and Discovery and Integrated Systems Librarian at Grinnell C
 
 ### \*\*\*\*[**Louis K Epstein:**](https://www.stolaf.edu/profile/epstein)
 
-Assistant Professor of Music; Musicology at St. Olaf College.
+Assistant Professor of Music at St. Olaf College.
 
-### [**Austin Mason**](https://apps.carleton.edu/profiles/amason/)**:**
+### [Ellen Joyce](https://www.beloit.edu/live/profiles/24-ellen-joyce)
 
-Director of Digital Arts and Humanities at Carleton College.
-
-### Mark Thorne
-
-
-
-### Nick Philips
-
-
+Associate Professor and Chair of History at Beloit College.
 
 ### Kyle Martin
 
 
 
-### [Peter Nekola](https://www.luther.edu/philosophy/faculty/)
+### [**Austin Mason**](https://apps.carleton.edu/profiles/amason/)**:**
 
-Visiting Assistant Professor of Philosophy at Luther College.
+Assistant Director of the Humanities Center; Lecturer in History; Director of Digital Arts and Humanities at Carleton College.
+
+### Andrew McSorley
+
+
+
+### [Carmen Moreno-Díaz](https://www.stolaf.edu/profile/moreno3)
+
+Visiting Assistant Professor of Romance Languages at St. Olaf College.
 
 ### [Victoria Morse](https://apps.carleton.edu/profiles/vmorse/)
 
 Professor of History, Director of Medieval and Renaissance Studies at Carleton College.
 
-### armstroc@lawrence
+### [Peter Nekola](https://www.luther.edu/philosophy/faculty/)
 
-### Andrew McSorley
+Visiting Assistant Professor of Philosophy at Luther College.
+
+### Nick Philips
+
+
 
 ### [Hsiang-Lin Shih:](https://www.stolaf.edu/profile/shih)
 
 Assistant Professor of Asian Studies at St. Olaf College.
 
-### 
+### [Mark Thorne](https://www.luther.edu/classics/faculty/)
 
-### [Ellen Joyce](https://www.beloit.edu/live/profiles/24-ellen-joyce)
+Visiting Assistant Professor of Classics at Luther College.
 
-Associate Professor at Beloit College.
+### armstroc@lawrence
 
-### [Carmen Moreno-Díaz](https://www.stolaf.edu/profile/moreno3)
 
-Visiting Assistant Professor of Romance Languages at St. Olaf College.
 
 ### Anonymous Users
 
@@ -62,9 +64,7 @@ Please let us know your actual name! Anon have contributed in "Uncertainty and A
 
 ## Editor and Reviewers
 
-### Aaron Young**:**
+### Aaron Young and Alan Zheng:
 
-### Alan Zheng:
-
-are [Digital Humanities Associates](https://www.carleton.edu/digital-humanities/who-we-are/) \(and student\) at Carleton College
+We are [Digital Humanities Associates](https://www.carleton.edu/digital-humanities/who-we-are/) \(and student\) at Carleton College
 
