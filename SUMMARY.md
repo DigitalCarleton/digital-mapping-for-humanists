@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Fostering Humanistic Tools for Digital Mapping Cookbook](README.md)
+* [Digital Mapping for Humanists: A Cookbook](README.md)
+* [How to Write a Good Recipe](how-to-write-a-good-recipe.md)
 * [Recipe Template](recipe-template.md)
 * [About Us](participants-about-us.md)
 
