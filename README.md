@@ -24,10 +24,12 @@ This cookbook, created for a workshop on [Fostering Humanistic Tools for Digital
 There are a number of ways you can use and contribute to this site:
 
 * Read the **Instructions and Examples** recipes for thinking through how to get started
-* **Browse complete recipes** in the table of contents, or **Search for keywords** using the bar top right
+* **Use our recipes** to make your maps better!
+  * **Browse complete recipes** in the table of contents, or 
+  * **Search for keywords** using the search bar top right
 * **Contribute** to the project and share your tips by 
   * **Editing an unfinished recipe**
-  * **Writing a new recipe** by reading about [How to Write a Good Recipe](how-to-write-a-good-recipe.md) and copying the [Recipe Template](recipe-template.md)
+  * **Writing a new recipe** \(read about [How to Write a Good Recipe](how-to-write-a-good-recipe.md), check out the [Add Historic Maps to ArcGIS Online](recipes/add-historic-maps-to-arcgis-online.md) recipe as an example, and copy the [Recipe Template](recipe-template.md) to get started\)
 
 
 
