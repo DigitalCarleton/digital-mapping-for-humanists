@@ -15,9 +15,9 @@ Maps, mapping, and spatial understanding are central to many current projects in
 
 ## What is a mapping "cookbook"?
 
-Culinary cookbooks offer recipes for making specific dishes. A tech or [programming "cookbook"](https://en.wikibooks.org/wiki/Coding_Cookbook) is different than a reference manual or tutorial documentation in that it doesn't attempt to cover all aspects of a topic or tool or teach you the basics from the ground up. Rather it contains "recipes" to teach you the ingredients and steps necessary to make specific things.
+Culinary cookbooks offer recipes for making specific dishes. A tech or [programming "cookbook"](https://en.wikibooks.org/wiki/Coding_Cookbook) contains "recipes" to make specific things on the computer. A cookbook differs from a reference manual or tutorial documentation in that it doesn't attempt to cover all aspects of the topic, detail all the tools, or teach you the basics from the ground up. Rather, it contains "recipes" to teach you just those ingredients and steps necessary to perform a specific task.
 
-This cookbook, created for a workshop on [Fostering Humanistic Tools for Digital Mapping](https://www.acm.edu/professional_development/project/104/fostering-humanistic-tools-for-digital-mapping) funded by the Associated Colleges of the Midwest, contains recipes for adapting existing digital mapping tools to better meet the needs of humanistic scholars. Participants share proven methods of navigating obstacles within existing mapping tools to produce effective humanities-based digital maps.
+This mapping cookbook, created for a workshop on [Fostering Humanistic Tools for Digital Mapping](https://www.acm.edu/professional_development/project/104/fostering-humanistic-tools-for-digital-mapping) funded by the Associated Colleges of the Midwest, contains recipes for adapting existing digital mapping tools to better meet the needs of humanistic scholars. Participants share proven methods of navigating obstacles within existing mapping tools to produce effective humanities-based digital maps.
 
 ## How to Use this Site
 
